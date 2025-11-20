@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# https://github.com/Nyr/openvpn-install
+# https://github.com/Scu9277/openvpn
 #
 # Copyright (c) 2013 Nyr. Released under the MIT License.
 
